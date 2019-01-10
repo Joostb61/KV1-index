@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmi8:setgeldigheidsperiode xsi:schemaLocation="http://bison.connekt.nl/tmi8/kv1/msg kv1-index.xsd" xmlns:tmi8="http://bison.connekt.nl/tmi8/kv1/msg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<tmi8:dataownercode>ARR</tmi8:dataownercode>
+	<!--Baseline voor setgroep BW voor jaardienstregeling 2015> -->
+	<tmi8:setcode>BW</tmi8:setcode>
+	<tmi8:index>2</tmi8:index>
+	<tmi8:versie>1</tmi8:versie>
+	<tmi8:publicatiedatum>2014-12-03T13:07:57</tmi8:publicatiedatum>
+	<tmi8:isgeldig>true</tmi8:isgeldig>
+	<tmi8:startdatum>2014-12-14</tmi8:startdatum>
+	<tmi8:einddatum>2015-12-12</tmi8:einddatum>
+	<tmi8:isbaseline>true</tmi8:isbaseline>
+	<tmi8:zipfile>KV1_ARR_BW_2_1.zip</tmi8:zipfile>
+	<tmi8:kv1dossier>8.1.1.0</tmi8:kv1dossier>
+	<tmi8:pptfile>ppt_ARR_BW_2_1.zip</tmi8:pptfile>
+	<tmi8:pptdossier>8.1.2.0</tmi8:pptdossier>
+</tmi8:setgeldigheidsperiode>
