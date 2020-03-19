@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kv1index xmlns="http://bison.connekt.nl/tmi8/kv1/msg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bison.connekt.nl/tmi8/kv1/msg kv1index-810.xsd">
+	<mutatiedatum>2019-02-01T11:30:47Z</mutatiedatum>
+	<lastindex>1021</lastindex>
+	<setgeldigheidsperiode key="28d747e9-3d2a-4c5b-bb07-bdc725252e6e">
+		<dataownercode>DataOwnerCodeVanVervoerder</dataownercode>
+		<setcode>SetCodeVanVervoerder</setcode>
+		<index>1020</index>
+		<versie>1</versie>
+		<publicatiedatum>2018-12-02T09:30:47Z</publicatiedatum>
+		<isgeldig>true</isgeldig>
+		<startdatum>2018-12-07</startdatum>
+		<einddatum>2019-12-06</einddatum>
+		<isbaseline>true</isbaseline>
+		<zipfile>KV1_DataOwner_1020_1.zip</zipfile>
+		<kv1dossier>8.3.0</kv1dossier>
+		<kv1variant>rijtijdgroepen</kv1variant>
+		<pptfile>PPT_DataOwner_1020_1.zip</pptfile>
+		<pptdossier>8.1.4</pptdossier>
+		<lijnen>
+			<lineplanningnumber>8001</lineplanningnumber>
+			<lineplanningnumber>8002</lineplanningnumber>
+			<lineplanningnumber>8003</lineplanningnumber>
+			<lineplanningnumber>8004</lineplanningnumber>
+			<lineplanningnumber>8005</lineplanningnumber>
+		</lijnen>
+	</setgeldigheidsperiode>
+	<setgeldigheidsperiode key="28d747e9-3d2a-4c5b-bb07-bdc7290be2c6">
+		<dataownercode>DataOwnerCodeVanVervoerder</dataownercode>
+		<setcode>SetCodeVanVervoerder</setcode>
+		<index>1021</index>
+		<versie>1</versie>
+		<publicatiedatum>2019-01-25T14:30:47Z</publicatiedatum>
+		<isgeldig>true</isgeldig>
+		<startdatum>2019-02-01</startdatum>
+		<einddatum>2019-02-28</einddatum>
+		<isbaseline>false</isbaseline>
+		<zipfile>KV1_DataOwner_1021_1.zip</zipfile>
+		<kv1dossier>8.3.0</kv1dossier>
+		<kv1variant>passeertijden</kv1variant>
+		<lijnen>
+			<lineplanningnumber>8001</lineplanningnumber>
+			<lineplanningnumber>8004</lineplanningnumber>
+		</lijnen>
+	</setgeldigheidsperiode>
+</kv1index>

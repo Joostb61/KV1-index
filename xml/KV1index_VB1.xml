@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kv1index xmlns="http://bison.connekt.nl/tmi8/kv1/msg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://bison.connekt.nl/tmi8/kv1/msg kv1index-810.xsd">
+	<mutatiedatum>2018-12-02T09:39:47Z</mutatiedatum>
+	<lastindex>1021</lastindex>
+	<!--BASELINE voor setgroep Groen voor jaardienstregeling 2019 -->
+	<setgeldigheidsperiode key="28d747e9-3d2a-4c5b-bb07-bdc725252e6e">
+		<dataownercode>ABC</dataownercode>
+		<setcode>Groen</setcode>
+		<index>1020</index>
+		<versie>1</versie>
+		<publicatiedatum>2018-12-02T09:30:47Z</publicatiedatum>
+		<isgeldig>true</isgeldig>
+		<startdatum>2018-12-09</startdatum>
+		<einddatum>2019-12-14</einddatum>
+		<isbaseline>true</isbaseline>
+		<zipfile>KV1_ABC_Groen_1020_1.zip</zipfile>
+		<kv1dossier>8.3.0</kv1dossier>
+		<kv1variant>rijtijdgroepen</kv1variant>
+		<pptfile>PPT_ABC_Groen_1020_1.zip</pptfile>
+		<pptdossier>8.1.4</pptdossier>
+		<lijnen>
+			<lineplanningnumber>9901</lineplanningnumber>
+			<lineplanningnumber>9902</lineplanningnumber>
+			<lineplanningnumber>9903</lineplanningnumber>
+		</lijnen>
+	</setgeldigheidsperiode>
+	<!--BASELINE voor setgroep Blauw voor jaardienstregeling 2019 -->
+	<setgeldigheidsperiode key="28d747e9-3d2a-4c5b-bb07-bdc7290be2c6">
+		<dataownercode>ABC</dataownercode>
+		<setcode>Blauw</setcode>
+		<index>1021</index>
+		<versie>1</versie>
+		<publicatiedatum>2018-12-02T09:35:49Z</publicatiedatum>
+		<isgeldig>true</isgeldig>
+		<startdatum>2018-12-09</startdatum>
+		<einddatum>2019-12-14</einddatum>
+		<isbaseline>true</isbaseline>
+		<zipfile>KV1_ABC_Blauw_1021_1.zip</zipfile>
+		<kv1dossier>8.3.0</kv1dossier>
+		<kv1variant>passeertijden</kv1variant>
+		<pptfile>PPT_ABC_Blauw_1021_1.zip</pptfile>
+		<pptdossier>8.1.4</pptdossier>
+		<lijnen>
+			<lineplanningnumber>9904</lineplanningnumber>
+			<lineplanningnumber>9905</lineplanningnumber>
+		</lijnen>
+	</setgeldigheidsperiode>
+</kv1index>
