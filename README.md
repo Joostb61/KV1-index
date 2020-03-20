@@ -1,4 +1,4 @@
-# BISON standaard: KV1-index
+# KV1index - Metagegevens KV1 & PPT
 
 De documentatie is te vinden op de [BISON website](http://bison.dova.nu/standaarden/kv1-index).
 
