@@ -23,6 +23,7 @@
 <!--                                                                                                                                   -->
 <!--        8.1.0: Root structuur die alle setgeldigheidsperiodes bevat.                                                               -->
 <!--        8.1.0a: Copyright aangepast.                                                                                               -->
+<!--        8.1.1: Verwijzing naar bijbehorende NeTEx-levering toegevoegd. 
 <!--                                                                                                                                   -->
 <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tmi8="http://bison.connekt.nl/tmi8/kv1/msg" targetNamespace="http://bison.connekt.nl/tmi8/kv1/msg" elementFormDefault="qualified">
@@ -66,7 +67,7 @@
 	<xs:element name="setgeldigheidsperiode">
 		<xs:annotation>
 			<xs:documentation xml:lang="nl">
-				De gegevens van één KV1-set (en de bijbehorende PPT-set).
+				De gegevens van één KV1-set (en de bijbehorende PPT-set en evt. NeTEx-levering).
 			</xs:documentation>
 		</xs:annotation>
 		<xs:complexType>
